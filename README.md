@@ -1,1 +1,2 @@
-# the_pantry
+GirHub Checkpoint Assignment
+GitHub Checkpoint Assignment
